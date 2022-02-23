@@ -121,7 +121,7 @@ color:#E5E7EB;
     justify-content: center;
 }
 .quote{
-    margin-top:200px;
+    margin-top:50px;
     margin-bottom:auto;
     font-size: 36px;
     font-style:italic;
@@ -130,7 +130,7 @@ color:#E5E7EB;
 }
 
 .quoter{
-    flex-basis: 200px;
+    flex-basis: 50px;
 
 }
 .fourth{
