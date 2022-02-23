@@ -52,17 +52,14 @@ background-color: #1F2937;
 }
 
 
-.placeholder{
-    text-align: center;
-    color:#F9FAF8;
-    width:500px;
-    height:200px;
-    background-color: gray;
+.profile{
+    margin-bottom: 40px;
 }
 
-.placeholder p{
-    margin:90px 0 0 0;
+.profile p{
+    margin:20px 0 0 0;
 }
+
 .links a{
 text-decoration: none;
 font-size: 18px;
