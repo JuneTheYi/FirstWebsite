@@ -1,4 +1,6 @@
 # FirstWebsite - From The Odin Project
+Link to site: http://junetheyi.com/
+
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page
 
 1. Download the design images and take a look at what you’re going to be creating here. 
